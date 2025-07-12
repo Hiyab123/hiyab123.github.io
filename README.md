@@ -12,7 +12,7 @@ This is my personal portfolio to showcase my skills in **HTML, CSS, and JavaScri
 
 ## How to view
 
-You can clone this repo and open `index.html` in your browser, or check it live at [your live link here].
+You can clone this repo and open `index.html` in your browser, or check it live at (https://hiyab123.netlify.app).
 
 ## License
 
