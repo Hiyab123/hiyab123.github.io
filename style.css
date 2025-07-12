@@ -12,11 +12,11 @@
 }
 
 :root {
-  --bg-color: rgb(56, 2, 2);
+  --bg-color:  linear-gradient(to bottom,#86a8e7, #91eae4, #ff7e5f, #feb47b );;
   --my-color: #29048d;
-  --second-bg-color: #5a0909;
-  --text-color: #ededed;
-  --main-color: #00abf0;
+  --second-bg-color: linear-gradient(to right, #ff7e5f, #feb47b,#86a8e7, #91eae4 );
+  --text-color: #242020;
+  --main-color: #0f5c7a;
 }
 
 html {
